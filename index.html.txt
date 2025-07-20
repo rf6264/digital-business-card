@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Digital business card for Russell Fox – SEO & Web Consultant" />
+    <title>Russell Fox – Digital Business Card</title>
+  </head>
+  <body>
+    <header>
+      <h1> Russell Fox</h1>
+      <p>Digital Strategy Consultant</p>
+      <img src="IMG_2264.jpg" alt="Photo of Russell Fox" width="200" />
+    </header>
+
+    <main>
+      <section>
+        <h2> I am a business consultant that implements digital strategies</h2>
+        <p>I specialize in SEO, Coding, Marketing, and Cybersecurity. Basically, I will map out a strategy for your business that will not only create more foot-traffic but also be secured as well.</p>
+      </section>
+
+      <section>
+        <h2>Services</h2>
+        <ul>
+          <li>Custom SEO Audits</li>
+          <li>Hand-Coded Website Builds</li>
+          <li>Cybersecurity Setup Consulting</li>
+          <li>Marketing Strategies</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:rfox.oa@gmail.com">Rfox.oa@gmail.com</a></p>
+        <p>
+          <a href="https://github.com/yourusername" target="_blank">GitHub</a> | 
+          <a href="https://linkedin.com/in/yourusername" target="_blank">LinkedIn</a>
+        </p>
+      </section>
+    </main>
+
+    <footer>
+      <p>© 2025 Russell Fox</p>
+    </footer>
+  </body>
+</html>
